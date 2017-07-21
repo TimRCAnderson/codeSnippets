@@ -1,0 +1,8 @@
+D:\UNCC_Coding_Bootcamp\Homework\codeSnippets\bin\Debug\netcoreapp1.1\codeSnippets.deps.json
+D:\UNCC_Coding_Bootcamp\Homework\codeSnippets\bin\Debug\netcoreapp1.1\codeSnippets.runtimeconfig.json
+D:\UNCC_Coding_Bootcamp\Homework\codeSnippets\bin\Debug\netcoreapp1.1\codeSnippets.runtimeconfig.dev.json
+D:\UNCC_Coding_Bootcamp\Homework\codeSnippets\bin\Debug\netcoreapp1.1\codeSnippets.dll
+D:\UNCC_Coding_Bootcamp\Homework\codeSnippets\bin\Debug\netcoreapp1.1\codeSnippets.pdb
+D:\UNCC_Coding_Bootcamp\Homework\codeSnippets\obj\Debug\netcoreapp1.1\codeSnippets.AssemblyInfo.cs
+D:\UNCC_Coding_Bootcamp\Homework\codeSnippets\obj\Debug\netcoreapp1.1\codeSnippets.dll
+D:\UNCC_Coding_Bootcamp\Homework\codeSnippets\obj\Debug\netcoreapp1.1\codeSnippets.pdb
